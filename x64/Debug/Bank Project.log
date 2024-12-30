@@ -1,0 +1,61 @@
+﻿  Source.cpp
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(179,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(209,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(257,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(344,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsString.h(350,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsUser.h(169,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsUser.h(18,9):
+      see declaration of 'clsUser::stLoginRegister'
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(186,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(20,9):
+      see declaration of 'clsBankClient::stTransferRegister'
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(108,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(109,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(110,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsTransferScreen.h(69,45): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsTransferRegListScreen.h(30,18): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsCurrency.h(23,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\ClsCurrencyConvert.h(23,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\ClsCurrencyConvert.h(23,16): warning C4244:         with
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\ClsCurrencyConvert.h(23,16): warning C4244:         [
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\ClsCurrencyConvert.h(23,16): warning C4244:             T=double
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\ClsCurrencyConvert.h(23,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsCurrencyExchangeScreen.h(90,21): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsBankClient.h(281,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsUser.h(250,1): warning C4715: 'clsUser::Save': not all control paths return a value
+E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\Bank Project\clsUtil.h(268,1): warning C4715: 'clsUtil::NumToText': not all control paths return a value
+  Bank Project.vcxproj -> E:\C++ Training Projects\OOP Applications\Bank Project\Bank Project\x64\Debug\Bank Project.exe
